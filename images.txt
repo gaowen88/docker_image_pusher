@@ -1,2 +1,1 @@
-qnib/web-svn:latest
-garethflowers/svn-server:latest
+tuxedobrain/web-svn:latest
